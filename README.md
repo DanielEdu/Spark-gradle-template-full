@@ -1,17 +1,17 @@
-# Apacha Kafka Producer
+# PoC Spark CNN Model
 
 # Overview
 
-This is a gradle project based on Scala 2.11 language programming, for creating and Array of Producer.
+This is a gradle project based on Scala 2.12 language programming, for creating and Array of Producer.
 
 
 # Software Components:
 
 Ensablador: 		Gradle 5.6.2
 
-Scala: 			 2.11.12
+Scala: 			 2.12.10
 
-Spark:	 		 2.2.0
+Spark:	 		 3.0.0
 
 URL Artifactory Repo:	https://plugins.gradle.org/m2/ (Depends on Entel's repository)
 
